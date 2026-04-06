@@ -1,20 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="146.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHA_XGOV5pqbwpJd6_WESwUi5G0smL8GDLqe0EzKhB52mOMjp_An64ntWCeMm7GNwL1jYXRpFZG6DgchXtVcaw7aGjj1rHKHPLX3ECjdIC8T0t7shiWvSk6mO0Wm9oJVARor1TDyNFA3rwSuTZnv1M0jJm-Ha_QkFtbZAYVNF4DROJkIdQLBbKuQaQI-2p/s700/OKEY%20TV.png" group-title="Channel Film",TV Okey
+#EXTINF:-1 tvg-id="146.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHA_XGOV5pqbwpJd6_WESwUi5G0smL8GDLqe0EzKhB52mOMjp_An64ntWCeMm7GNwL1jYXRpFZG6DgchXtVcaw7aGjj1rHKHPLX3ECjdIC8T0t7shiWvSk6mO0Wm9oJVARor1TDyNFA3rwSuTZnv1M0jJm-Ha_QkFtbZAYVNF4DROJkIdQLBbKuQaQI-2p/s700/OKEY%20TV.png" group-title="Local Entertainment",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 group-title="Channel Film" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjXrwEUvG3G4NpQ1XCJdZcZTAciP6pkk1yq2GAs5mdf17RLyrV2jAywp1C1Aotj74KFy-2AU5jpqOmJ0ibzM_Y8sqKKdqK_ZRpFWJGaUWXL0iPI_gKZYJjX9eN0peqqxkHzg_dTQ5bdbUm7Q3rpIWPLpxX-5dWnmBl9QmUAZOwsQIrfPLSh1MkyZl9kzNC/s700/HITS%20MOVIES.png",HITS Movies
+#EXTINF:-1 group-title="Local Entertainment" tvg-logo="https://i.postimg.cc/YjZx1z4s/hits-tv-sg.png",HITS TV
+https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd
+
+#EXTINF:-1 group-title="Local Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjXrwEUvG3G4NpQ1XCJdZcZTAciP6pkk1yq2GAs5mdf17RLyrV2jAywp1C1Aotj74KFy-2AU5jpqOmJ0ibzM_Y8sqKKdqK_ZRpFWJGaUWXL0iPI_gKZYJjX9eN0peqqxkHzg_dTQ5bdbUm7Q3rpIWPLpxX-5dWnmBl9QmUAZOwsQIrfPLSh1MkyZl9kzNC/s700/HITS%20MOVIES.png",HITS Movies
 https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUMtKSR5T3BUCKFiU-q1gxvjSGq7GYOwTSihLjhifhryzRtGAZyFUoz_QB0CSgJai9vBfILvcfAfNnyy_BpTKY5cx9Z_ie1-urA_kAm9uQyFiRaLL7xhJkoJWMZCyfTXh1HBt2eUJrSwMTCLX-XQHL8QdH0KUepvttJF1mN1bWNiypaebE_7FKRDu289Ca/s700/AXN.png" group-title="Channel Film",AXN
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUMtKSR5T3BUCKFiU-q1gxvjSGq7GYOwTSihLjhifhryzRtGAZyFUoz_QB0CSgJai9vBfILvcfAfNnyy_BpTKY5cx9Z_ie1-urA_kAm9uQyFiRaLL7xhJkoJWMZCyfTXh1HBt2eUJrSwMTCLX-XQHL8QdH0KUepvttJF1mN1bWNiypaebE_7FKRDu289Ca/s700/AXN.png" group-title="Local Entertainment",AXN
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8rUrK181MBOwQlkMQxoPlNq4xZQqhnEQ7OtO3Dztm1dI4lSbJiVNUxUI5X74PMrf-NNJKtWpE4VFitKBSlyXMksBpjdQn2xqoSx7n1lQwgXLU5hPFT3J4XaPYD6JfZlycIHLqSiWE6SaHvfr1ZZXAc6mDlIeFxbn2Kdlwb-z6Wj05Z3F4vd0DEX6FWASM/s700/ZEE%20BIOSKOP.png" group-title="Channel Film", Zee Bioskop
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8rUrK181MBOwQlkMQxoPlNq4xZQqhnEQ7OtO3Dztm1dI4lSbJiVNUxUI5X74PMrf-NNJKtWpE4VFitKBSlyXMksBpjdQn2xqoSx7n1lQwgXLU5hPFT3J4XaPYD6JfZlycIHLqSiWE6SaHvfr1ZZXAc6mDlIeFxbn2Kdlwb-z6Wj05Z3F4vd0DEX6FWASM/s700/ZEE%20BIOSKOP.png" group-title="Local Entertainment", Zee Bioskop
 https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL-HL8z9zbvdX3i_39v0K9qKvDPVZs6Lq63rV6bVZb5GrCwwcpf3MNxSljGlzWRFkwteC4nFmL4grYi2rghYhsOs756SOtP76U9WrX1y12kR_LB0GA6AZprwuuDw9TLPdYLI7ZbUtnkxe3nWnv0yC7FHwUv_ZNMdTKj7F2Q1LBmPlRxbmGeXvkXUYpzKM5/s700/THRILL.png" group-title="Channel Film", Thrill
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL-HL8z9zbvdX3i_39v0K9qKvDPVZs6Lq63rV6bVZb5GrCwwcpf3MNxSljGlzWRFkwteC4nFmL4grYi2rghYhsOs756SOtP76U9WrX1y12kR_LB0GA6AZprwuuDw9TLPdYLI7ZbUtnkxe3nWnv0yC7FHwUv_ZNMdTKj7F2Q1LBmPlRxbmGeXvkXUYpzKM5/s700/THRILL.png" group-title="Local Entertainment", Thrill
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -22,7 +25,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO" group-title="Channel Film" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkI-QnpmtNsoMwaZ2zjOtNsiG7mXj9QOmeTGiUmffF0m_TTfXH_DTtm0ZwMmpqxK_beVkerFi6LtTo6_pGSOqe84M2kDol7YDGrVN-hmYygFHWCCA6ojHUvnkv0GyaLnDnZvizDJoWBj05T9J4Wc7d6CIgXdufYm6pjlP7l66hcIQqz4HCosx4-I0lzvOy/s700/HBO%20HD.png",HBO
+#EXTINF:-1 tvg-id="HBO" group-title="Local Entertainment" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkI-QnpmtNsoMwaZ2zjOtNsiG7mXj9QOmeTGiUmffF0m_TTfXH_DTtm0ZwMmpqxK_beVkerFi6LtTo6_pGSOqe84M2kDol7YDGrVN-hmYygFHWCCA6ojHUvnkv0GyaLnDnZvizDJoWBj05T9J4Wc7d6CIgXdufYm6pjlP7l66hcIQqz4HCosx4-I0lzvOy/s700/HBO%20HD.png",HBO
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -30,7 +33,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBOHits" group-title="Channel Film" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqbfolHm9YpbIjQSdPyBc61RhQ7rZRt-ffhIoMDgEZ5RzM2k3J3oR8ZRHqV4FAw17JSQbCCZNPCU_MEwEgBATVM9d70YIve1fnJu0qZ2sWnStRa4pOnXi2Uola5fhrl8OnD3qnLaS77kHrHRob0DQ72fXM1VrG1zFShx__UakYhJObrtpENVCywnCv-g4b/s700/HBO%20HITS.png",HBO Hits
+#EXTINF:-1 tvg-id="HBOHits" group-title="Local Entertainment" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqbfolHm9YpbIjQSdPyBc61RhQ7rZRt-ffhIoMDgEZ5RzM2k3J3oR8ZRHqV4FAw17JSQbCCZNPCU_MEwEgBATVM9d70YIve1fnJu0qZ2sWnStRa4pOnXi2Uola5fhrl8OnD3qnLaS77kHrHRob0DQ72fXM1VrG1zFShx__UakYhJObrtpENVCywnCv-g4b/s700/HBO%20HITS.png",HBO Hits
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -38,7 +41,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBOFamily" group-title="Channel Film" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbcx1d55B4tPsl16xxXwGZ29O9DdNh1yzdyTBhi9zZl-oXFhz3j_1gvuo2vwJH5MHAE6VMqrW4RJqDa-BIJY2sDPyUISLbO4Y9u1B6pV2Alow0VNazhppLKfg7sbaG4_BqaO_NhGbJ-tkhWi2XhEPTsIXN4rG1E4RW7OIO3r1jv2j7KUMwgUZDTwUOIzYg/s700/HBO%20FAMILY.png",HBO Family
+#EXTINF:-1 tvg-id="HBOFamily" group-title="Local Entertainment" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbcx1d55B4tPsl16xxXwGZ29O9DdNh1yzdyTBhi9zZl-oXFhz3j_1gvuo2vwJH5MHAE6VMqrW4RJqDa-BIJY2sDPyUISLbO4Y9u1B6pV2Alow0VNazhppLKfg7sbaG4_BqaO_NhGbJ-tkhWi2XhEPTsIXN4rG1E4RW7OIO3r1jv2j7KUMwgUZDTwUOIzYg/s700/HBO%20FAMILY.png",HBO Family
 https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -46,7 +49,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBOSig" group-title="Channel Film" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsKgNN_vixF2wx0mNB4-3tqm7f-Bt18i208C7ZfvczosBrAzKfMuzS2Ua6k64H7zUyEwHPhjgov-QnTVqipQmjMqZgkA7ZpgXaGk8YCJYgu-w4tTp683t_OK9lValfeU_T5bgHtS_Ay84b4fBcr7T3fg5QbxE7MxKWD901wEl4P3baIqU-_s0aAvnvvyqM/s700/HBO%20SIGNATURE.png",HBO Signature
+#EXTINF:-1 tvg-id="HBOSig" group-title="Local Entertainment" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsKgNN_vixF2wx0mNB4-3tqm7f-Bt18i208C7ZfvczosBrAzKfMuzS2Ua6k64H7zUyEwHPhjgov-QnTVqipQmjMqZgkA7ZpgXaGk8YCJYgu-w4tTp683t_OK9lValfeU_T5bgHtS_Ay84b4fBcr7T3fg5QbxE7MxKWD901wEl4P3baIqU-_s0aAvnvvyqM/s700/HBO%20SIGNATURE.png",HBO Signature
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -54,47 +57,47 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Cinemax" group-title="Channel Film" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzjgvIIQKQiVAnbTBFd4WRMJ8Hp831ngGwJ6fkMvTV9Ctxy0iaLYWbnJeP4uxntytGI1kFZGiti-SMOEvGlAxy_2o0pcU_NdCr0elKrR6R-4BpT4MEFSh3AxkpEKvsBlCamLIxQk1NfTziREdEiN3oPOXLzBZTSGRy86UOEzUXYSt0Zq2fk4muQpcdiehQ/s700/CINEMAX.png",Cinemax
+#EXTINF:-1 tvg-id="Cinemax" group-title="Local Entertainment" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzjgvIIQKQiVAnbTBFd4WRMJ8Hp831ngGwJ6fkMvTV9Ctxy0iaLYWbnJeP4uxntytGI1kFZGiti-SMOEvGlAxy_2o0pcU_NdCr0elKrR6R-4BpT4MEFSh3AxkpEKvsBlCamLIxQk1NfTziREdEiN3oPOXLzBZTSGRy86UOEzUXYSt0Zq2fk4muQpcdiehQ/s700/CINEMAX.png",Cinemax
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
-#EXTINF:-1 tvg-id="6" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1qCnQZ6qCThZlWHZS_G01oE3uCL4APKVA4Ch0Z2hItWvGtmZe0WM2PyIjOM1MZ-QVPXpjwWdvyMue-Ez3A3Nu9JllRnDlrur7RvV-IHpRJNwGN-KUAibOnaBLSolqdCA6cEBdpcYBnuAWIoQvX2H43uUYMLUD5pyZMrRKl_e75w6A6YtFOM_D0-OpPG0R/s700/WARNER%20TV.png" group-title="Channel Film",Warner TV
+#EXTINF:-1 tvg-id="6" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1qCnQZ6qCThZlWHZS_G01oE3uCL4APKVA4Ch0Z2hItWvGtmZe0WM2PyIjOM1MZ-QVPXpjwWdvyMue-Ez3A3Nu9JllRnDlrur7RvV-IHpRJNwGN-KUAibOnaBLSolqdCA6cEBdpcYBnuAWIoQvX2H43uUYMLUD5pyZMrRKl_e75w6A6YtFOM_D0-OpPG0R/s700/WARNER%20TV.png" group-title="Local Entertainment",Warner TV
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjED7xyDejiQA-gAhQM-5x0deYw8SAC3DQs1w_1ypHnUVI_yMvBsvp5qdI3V-vVXewsPyqb1P2B3DUWWi_vuhXTUJsLOiDnptYV4Ky_gfLxImdzqtifLTu788L8qNvjoTPAZ116K_YokJZI6JsqY0DVnwcGadcFyyNC8KOsVac1oRIoLvCq3bDJkLGLusI/s700/20251207_001343.jpg" group-title="Channel Film",AMC Thrillers
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjED7xyDejiQA-gAhQM-5x0deYw8SAC3DQs1w_1ypHnUVI_yMvBsvp5qdI3V-vVXewsPyqb1P2B3DUWWi_vuhXTUJsLOiDnptYV4Ky_gfLxImdzqtifLTu788L8qNvjoTPAZ116K_YokJZI6JsqY0DVnwcGadcFyyNC8KOsVac1oRIoLvCq3bDJkLGLusI/s700/20251207_001343.jpg" group-title="Local Entertainment",AMC Thrillers
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/66243.ts
 
-#EXTINF:-1 group-title="Channel Film" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ijMMf5ILJGvd3tLp1kxB09s3mhkWXlrWS3EY44-6qoQsatbbBrBuIkp9r_3pmsvEEKcy8DA5ZIQXQQipmiVskQ1YQKLcqCc1RiAvk7-fwRpgQn8Usjog1fvH0rqXtExqf4bqPII1RPocJ0EYst9qV_2AYHaSq8C19aLQbukFbSxx6xWfL2b94bo4qOo/s700/20251207_001541.jpg", Sony Movie
+#EXTINF:-1 group-title="Local Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ijMMf5ILJGvd3tLp1kxB09s3mhkWXlrWS3EY44-6qoQsatbbBrBuIkp9r_3pmsvEEKcy8DA5ZIQXQQipmiVskQ1YQKLcqCc1RiAvk7-fwRpgQn8Usjog1fvH0rqXtExqf4bqPII1RPocJ0EYst9qV_2AYHaSq8C19aLQbukFbSxx6xWfL2b94bo4qOo/s700/20251207_001541.jpg", Sony Movie
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/2214.ts
 
-#EXTINF:-1 tvg-id="Starz Cinema" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrb8QsV7fCQqnlryKZ1Ka83zDwl5xoN8nvcsuwHziqO33jRIW8b6MpdaCqYDArJ_LZvYaAkedqFlHY9fr6JnJ2gbJZFcjTJ6pVERUdnakTQeWI69xT29na-1r4Ew-diXLdllkDVRVPdLrx0IQ9TQTO1Xgn8RrJpBBW0SmBo-cqKgIDO6Yl_UbMAOlgl-E/s700/20251207_001506.jpg" group-title="Channel Film",Starz Cinema
+#EXTINF:-1 tvg-id="Starz Cinema" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrb8QsV7fCQqnlryKZ1Ka83zDwl5xoN8nvcsuwHziqO33jRIW8b6MpdaCqYDArJ_LZvYaAkedqFlHY9fr6JnJ2gbJZFcjTJ6pVERUdnakTQeWI69xT29na-1r4Ew-diXLdllkDVRVPdLrx0IQ9TQTO1Xgn8RrJpBBW0SmBo-cqKgIDO6Yl_UbMAOlgl-E/s700/20251207_001506.jpg" group-title="Local Entertainment",Starz Cinema
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/17775.ts
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-name="My Cinema Europe HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQR-mi-WH7mdA9RogvrNdu7N9HF1y6D8zSJJG4JLxPLkqcATjgutlcDCjKi4oMGew-IBP2n2ibnXKwl6T56etT-NgT_OWWCCKYMWolZI3X_BjA1N3m1I9UIxc0ErZbrAOZuEej4bEkUepIlriiqYib0yt-q_hssAQqjME4YxVqBCK_x5os4AQ1W_reYRvb/s700/MY%20CINEMA%20EUROPE.png" group-title="Channel Film",My Cinema Europe
+#EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-name="My Cinema Europe HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQR-mi-WH7mdA9RogvrNdu7N9HF1y6D8zSJJG4JLxPLkqcATjgutlcDCjKi4oMGew-IBP2n2ibnXKwl6T56etT-NgT_OWWCCKYMWolZI3X_BjA1N3m1I9UIxc0ErZbrAOZuEej4bEkUepIlriiqYib0yt-q_hssAQqjME4YxVqBCK_x5os4AQ1W_reYRvb/s700/MY%20CINEMA%20EUROPE.png" group-title="Local Entertainment",My Cinema Europe
 https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
 
-#EXTINF:-1 group-title="Channel Film" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSWXYl54W-rKISn3MO7t6KWFm083kGBvJ1w9vhYZ3LTmyHFOPV4pV3pcorDpWzlZtQCBFob23QEKijpKofDI52BVqSy71R4Y7fgHFmOdb0iwo2-UMGB35a2LuJRQXrAJWQVC30XPkvyVbOrTivhewMyYT7tWG9DSe7Xs_0sBybosR7QyUqtQfOILfzBAvm/s700/MY%20FAMILY%20CHANNEL.png",My Family Channel
+#EXTINF:-1 group-title="Local Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSWXYl54W-rKISn3MO7t6KWFm083kGBvJ1w9vhYZ3LTmyHFOPV4pV3pcorDpWzlZtQCBFob23QEKijpKofDI52BVqSy71R4Y7fgHFmOdb0iwo2-UMGB35a2LuJRQXrAJWQVC30XPkvyVbOrTivhewMyYT7tWG9DSe7Xs_0sBybosR7QyUqtQfOILfzBAvm/s700/MY%20FAMILY%20CHANNEL.png",My Family Channel
 https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="ROCK Action" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoBKZaHdMqWB22-WfzdExEB4a4XBsp5jzQcO2eXqERhN9dYFYURgfyFWEEgNSeRiBgBfQQPLjRSfuJ1XbEPzljmiGRj8kEZ2QzqSrYav37pxgJyEj5BxTQamEUFX4Sql6kdPtyxcM7B-wMBBoW9opegy_doRpXkPcuIPfhZtn5tEDQrMkWznr9kCKcMBSM/s700/ROCK%20ACTION.png" group-title="Channel Film", Rock Action
+#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="ROCK Action" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoBKZaHdMqWB22-WfzdExEB4a4XBsp5jzQcO2eXqERhN9dYFYURgfyFWEEgNSeRiBgBfQQPLjRSfuJ1XbEPzljmiGRj8kEZ2QzqSrYav37pxgJyEj5BxTQamEUFX4Sql6kdPtyxcM7B-wMBBoW9opegy_doRpXkPcuIPfhZtn5tEDQrMkWznr9kCKcMBSM/s700/ROCK%20ACTION.png" group-title="Local Entertainment", Rock Action
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihsKHdqD3a0NaPimwL5lf-IP28vy8ZFsXQXVhCSLMeydln2BUl1NA7pOaVQnGRhdkPXHEcV2kW0dhTQudxVqrDAoepRrVdNf0oXuEh-FC1fLv2yUCrGMsxeuCibvEtZnrxko0-I6zoZyGiZlzhfvHuX9s2bxwS4E6o9fJIfgvsq0741NkgYkhflBAgzOWY/s700/ROCK%20ENTERTAINMENT.png" group-title="Channel Film",Rock Entertainment
+#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihsKHdqD3a0NaPimwL5lf-IP28vy8ZFsXQXVhCSLMeydln2BUl1NA7pOaVQnGRhdkPXHEcV2kW0dhTQudxVqrDAoepRrVdNf0oXuEh-FC1fLv2yUCrGMsxeuCibvEtZnrxko0-I6zoZyGiZlzhfvHuX9s2bxwS4E6o9fJIfgvsq0741NkgYkhflBAgzOWY/s700/ROCK%20ENTERTAINMENT.png" group-title="Local Entertainment",Rock Entertainment
 https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXPoBP5WGHrhneUhZQQ-sY9qKe1Q7OAg1HTClUg7M6uvNJY1hhW9Yn6tNTLuh5Ind_HqF0bkw0geWEhhyOBii5yVtVO01zan8OeAAtZfEqOb6tKs_l-eafkElwRyLCKrmC2Gn-Gt6qWIf73so3Is36QjZD40nC7U4Y97NWxxC8jACrAg_toX1PN8wY04o/s700/RakutenTV.png" group-title="Channel Film", Rakuten TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXPoBP5WGHrhneUhZQQ-sY9qKe1Q7OAg1HTClUg7M6uvNJY1hhW9Yn6tNTLuh5Ind_HqF0bkw0geWEhhyOBii5yVtVO01zan8OeAAtZfEqOb6tKs_l-eafkElwRyLCKrmC2Gn-Gt6qWIf73so3Is36QjZD40nC7U4Y97NWxxC8jACrAg_toX1PN8wY04o/s700/RakutenTV.png" group-title="Local Entertainment", Rakuten TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
   
-#EXTINF:-1 tvg-id="GB2600015OS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRBYY6Ap3HhYfyo1eI4uUfr4YPha0vgq9T0JgmVRe43zdlMMcDC8yVLWj6gaXo9qi8Ea_XPuPR6aYAwBLz-uoUjhBRGD8ch_nEHLb8VlRfajgJO9DKDczAcu95ln2NG_Fcs1dpMcXKf_6pbCk45VujjE9azfq6ZV1KyD0SknxQ1W3WQ47W2ZX-NJHWpqQ/s700/RakutenMovie.jpg" group-logo="" group-title="Channel Film",Rakuten Action
+#EXTINF:-1 tvg-id="GB2600015OS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRBYY6Ap3HhYfyo1eI4uUfr4YPha0vgq9T0JgmVRe43zdlMMcDC8yVLWj6gaXo9qi8Ea_XPuPR6aYAwBLz-uoUjhBRGD8ch_nEHLb8VlRfajgJO9DKDczAcu95ln2NG_Fcs1dpMcXKf_6pbCk45VujjE9azfq6ZV1KyD0SknxQ1W3WQ47W2ZX-NJHWpqQ/s700/RakutenMovie.jpg" group-logo="" group-title="Local Entertainment",Rakuten Action
 https://raw.githubusercontent.com/mystery75/m3u8/main/RACTION.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidRdFLcCOJNkXdy8G5BVyULYxzGjz__yF6SLkkbnnlPQnuZ2dmaEkwrnT8l7saPMKMnnRkBPffww7HvuSk2GRI6jj7YL6D29XXfXaPpSqOKj9YvzyivYCLy-4lOHJiflKo9qsn_XZ-mKj8__fMC0rY05zm1SFV1jpsXhdwbNx9vw2yFJldFdw3xHYI9p4Q/s700/CINEMA%20WORLD.png" group-title="Channel Film",Cinema World
+#EXTINF:-1 tvg-id="12" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidRdFLcCOJNkXdy8G5BVyULYxzGjz__yF6SLkkbnnlPQnuZ2dmaEkwrnT8l7saPMKMnnRkBPffww7HvuSk2GRI6jj7YL6D29XXfXaPpSqOKj9YvzyivYCLy-4lOHJiflKo9qsn_XZ-mKj8__fMC0rY05zm1SFV1jpsXhdwbNx9vw2yFJldFdw3xHYI9p4Q/s700/CINEMA%20WORLD.png" group-title="Local Entertainment",Cinema World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 
@@ -371,44 +374,44 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch60.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5CSMEcg4-k9aTui-ze4fFpQc3IAcyVDckfmTPY4ixF1_AhWYuhdwb_RO-JgxpPOnG2Q7MibOgJTriL6ZxGzI0rE8y0o6eIBrWTuKjK01B6J3wJRUqsvh9SFNywiphlXRNFuimKvMaWALhNYV357oR2zM7kN0P_kT2QeM7S829yODi2M0AkygYUGMRvYgo/s700/GARUDA%20TV.png" group-title="Channel Lokal",Garuda TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5CSMEcg4-k9aTui-ze4fFpQc3IAcyVDckfmTPY4ixF1_AhWYuhdwb_RO-JgxpPOnG2Q7MibOgJTriL6ZxGzI0rE8y0o6eIBrWTuKjK01B6J3wJRUqsvh9SFNywiphlXRNFuimKvMaWALhNYV357oR2zM7kN0P_kT2QeM7S829yODi2M0AkygYUGMRvYgo/s700/GARUDA%20TV.png" group-title="Local TV",Garuda TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWeTXowPKm3vbGz2EGnUDxw8udaOeALRrWhF6Nwp-R-CrqJSWt8whClicQl_x7s22umRVWSGYU3RQoaSXshdmhAMm30a3IMOhdFUkiDYefr2mrurOXKOtlMxl9zmQ-HTz6Zl0gkt1vJT6pTMzOlTj8Za8nlqomews7g94_qTvsFrs49fn4uGXyI2Hs5-U0/s700/SINPO%20TV.png" group-title="Channel Lokal"",Sinpo TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWeTXowPKm3vbGz2EGnUDxw8udaOeALRrWhF6Nwp-R-CrqJSWt8whClicQl_x7s22umRVWSGYU3RQoaSXshdmhAMm30a3IMOhdFUkiDYefr2mrurOXKOtlMxl9zmQ-HTz6Zl0gkt1vJT6pTMzOlTj8Za8nlqomews7g94_qTvsFrs49fn4uGXyI2Hs5-U0/s700/SINPO%20TV.png" group-title="Local TV"",Sinpo TV
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTINF:-1 tvg-id="Rodja.TV.id" tvg-name="Rodja TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbvZlNKfEnHh1qEmTjEKC5a5UFPg1cxsQbTWyKf3bYn9oFi_DCFrUNbf9Duqthu_iO5rCrMCFrUGr6HHn9-3OCGAC4q7RuISkahODarJGM91CxkPrWREM3EoPas5BLHWMHebB0XMUECufPhn43N_DwdDdyzfTRg7WPa1nbIC_bLelkEz0qAMVLllE9FboQ/s700/RODJA.png" group-title="Channel Lokal",Rodja TV
+#EXTINF:-1 tvg-id="Rodja.TV.id" tvg-name="Rodja TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbvZlNKfEnHh1qEmTjEKC5a5UFPg1cxsQbTWyKf3bYn9oFi_DCFrUNbf9Duqthu_iO5rCrMCFrUGr6HHn9-3OCGAC4q7RuISkahODarJGM91CxkPrWREM3EoPas5BLHWMHebB0XMUECufPhn43N_DwdDdyzfTRg7WPa1nbIC_bLelkEz0qAMVLllE9FboQ/s700/RODJA.png" group-title="Local TV",Rodja TV
 https://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&userid=lite&chname=RodjaTV
 
-#EXTINF:-1 group-title="Channel Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFrE9gZXhuydLEN_fvE01M987rITpICZMd-wyUlJUTAoYSmamzTZfRxZDh0os-W6_W_P8hCojaOv_u17EJ6aLdp8ZfJivNybxEiwXA0ZIEGpjPxfiJKE34GNW3mQZWK2b8NuIglKLCBsoqfBDfrtBSIlpBNrPYc0akKHa7uWOyd6xSBHCTGmIDZpY16Ao/s700/FatwaTV.png",Fatwa TV
+#EXTINF:-1 group-title="Local TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFrE9gZXhuydLEN_fvE01M987rITpICZMd-wyUlJUTAoYSmamzTZfRxZDh0os-W6_W_P8hCojaOv_u17EJ6aLdp8ZfJivNybxEiwXA0ZIEGpjPxfiJKE34GNW3mQZWK2b8NuIglKLCBsoqfBDfrtBSIlpBNrPYc0akKHa7uWOyd6xSBHCTGmIDZpY16Ao/s700/FatwaTV.png",Fatwa TV
 http://202.169.224.202:8800/udp/239.3.1.6:1234
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfvPzWNOz8S8LW7Pbc2A6KS6KX8NFcFEcEbwM0-GYgsue6WX20suR9y88DEGHGlw7pDUp8BwnR-XrGDtCvKFHIBMo0h8R5Tw9TzMIpLALXuS0FoHCKRB4R-QLDQqKSN7et5Om_UHgOq3vOlswqRGfhuVWzK6R8YbTVFz7aWIcZLrIg4f0qzIL94utpAWxj/s700/DENS%20PLAY.png" group-title="Channel Lokal",Dens Play
+#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfvPzWNOz8S8LW7Pbc2A6KS6KX8NFcFEcEbwM0-GYgsue6WX20suR9y88DEGHGlw7pDUp8BwnR-XrGDtCvKFHIBMo0h8R5Tw9TzMIpLALXuS0FoHCKRB4R-QLDQqKSN7et5Om_UHgOq3vOlswqRGfhuVWzK6R8YbTVFz7aWIcZLrIg4f0qzIL94utpAWxj/s700/DENS%20PLAY.png" group-title="Local TV",Dens Play
 https://op-group1-densxvisionhd-1.dens.tv/h/h225/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Dens Showbiz" tvg-name="Dens Showbiz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuBTowYF5Zl0B22zekD9cjODl7YJX9aylHDthoN2PTyeaeCjgPTvmD-oVa4r_POexb6JmLrz0aFbLzuYoB8bRrRuTXDSKhnCM4zg8RQ_dUZ6m3eBs_lkb_KH5GK_RKPrFRvDoLoqz2Mvzqis6lblMbgxyEtodzVMS_wmLmwu-OiKpE1B8rCTmMcoOCijnG/s700/DENS%20SHOWBIZ.png" group-title="Channel Lokal",Dens Showbiz
+#EXTINF:-1 tvg-id="Dens Showbiz" tvg-name="Dens Showbiz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuBTowYF5Zl0B22zekD9cjODl7YJX9aylHDthoN2PTyeaeCjgPTvmD-oVa4r_POexb6JmLrz0aFbLzuYoB8bRrRuTXDSKhnCM4zg8RQ_dUZ6m3eBs_lkb_KH5GK_RKPrFRvDoLoqz2Mvzqis6lblMbgxyEtodzVMS_wmLmwu-OiKpE1B8rCTmMcoOCijnG/s700/DENS%20SHOWBIZ.png" group-title="Local TV",Dens Showbiz
 https://op-group1-densxvisionhd-1.dens.tv/h/h203/index.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJZ3pOp0SBXsCwOfSieDCCpnl30dlBp8luDGJe6KgV_N5y6OiLMeXsklLwrkqKRO-3aWRfFW49jVPSiB_Y_ayssm0L-0xnfJbzgIQjdheLbLpoQMng2kFF21hX9nifDbgEdw4WrI0PqbtCQiFWTz1OuXBE6Ed_tNKWmJrDrt3BbmYjh4Z9Xh-G39BAe54v/s700/DENS%20KNOWLEDGE.png" group-title="Channel Lokal",Dens Knowledge
+#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJZ3pOp0SBXsCwOfSieDCCpnl30dlBp8luDGJe6KgV_N5y6OiLMeXsklLwrkqKRO-3aWRfFW49jVPSiB_Y_ayssm0L-0xnfJbzgIQjdheLbLpoQMng2kFF21hX9nifDbgEdw4WrI0PqbtCQiFWTz1OuXBE6Ed_tNKWmJrDrt3BbmYjh4Z9Xh-G39BAe54v/s700/DENS%20KNOWLEDGE.png" group-title="Local TV",Dens Knowledge
 https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8?app_type=web&userid=lite&chname=DensKnowledge
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWNFwC7xLliDm-DUjXKufLVA4rIiqf-w6YiJmlqeVFkqeyqSBRe5QbxGp07ve2JHudbnmcCBxHJQPcTef86vOcPshyphenhyphenc5wEY0yD6QGYKd1wSfuk0X8yHQuCwCJQN3eHGDq5Jdu7f5amZY7yKCPVhOvaSiluK8meNLMwhBCjG_0GE6L5RtBuWTBqm-GbdPzP/s700/DENS%20LIFE%20&%20STYLE.png" group-title="Channel Lokal",Dens Lifestyle
+#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWNFwC7xLliDm-DUjXKufLVA4rIiqf-w6YiJmlqeVFkqeyqSBRe5QbxGp07ve2JHudbnmcCBxHJQPcTef86vOcPshyphenhyphenc5wEY0yD6QGYKd1wSfuk0X8yHQuCwCJQN3eHGDq5Jdu7f5amZY7yKCPVhOvaSiluK8meNLMwhBCjG_0GE6L5RtBuWTBqm-GbdPzP/s700/DENS%20LIFE%20&%20STYLE.png" group-title="Local TV",Dens Lifestyle
 https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=lite&chname=DensLifenStyle
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="DENS Food Channel.id" tvg-name="DENS Food Channel.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZaGy7vzdoJFCCOgOSNqp7sdvy2D64Ha3733pwSb1nraHfM6aR_TfbIN_abD7sv2CIJLXjT-Fbq-emdhvRi1PrInm4U7l1mTqmHZcZWV2b7MXa75jfUWaZaQ5_lh2HKuLJgXaq8kXTMOkoL4ApVx-RYfRMaa903w5UgFHP2vJ-b8T3ZZgeMf2CAip-o_xJ/s700/DENS%20FOOD%20CHANNEL.png" group-title="Channel Lokal",Densfood
+#EXTINF:-1 tvg-id="DENS Food Channel.id" tvg-name="DENS Food Channel.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZaGy7vzdoJFCCOgOSNqp7sdvy2D64Ha3733pwSb1nraHfM6aR_TfbIN_abD7sv2CIJLXjT-Fbq-emdhvRi1PrInm4U7l1mTqmHZcZWV2b7MXa75jfUWaZaQ5_lh2HKuLJgXaq8kXTMOkoL4ApVx-RYfRMaa903w5UgFHP2vJ-b8T3ZZgeMf2CAip-o_xJ/s700/DENS%20FOOD%20CHANNEL.png" group-title="Local TV",Densfood
 https://op-group1-densxvisionhd-1.dens.tv/h/h248/index.m3u8
