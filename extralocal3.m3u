@@ -418,3 +418,6 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h248/index.m3u8
 
 #EXTINF:-1 tvg-id="SindoNews.id" tvg-name="" tvg-logo="https://i.postimg.cc/mP3np7D5/500px-Sindo-News-TV-(2023)-svg.png" group-title="Local TV",SindoNews TV
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
+#EXTINF:-1 tvg-id="MaxReels.id" tvg-name="" tvg-logo="https://i.postimg.cc/PLCTg68R/reels.jpg" group-title="Local TV",Max Reels
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
