@@ -66,6 +66,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="Local Entertainment",AMC ᴴᴰ
 http://xxip9.top:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/18925
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JDXyXznP/galaxy-tv-id.png" group-title="Local Entertainment",GALAXYᴴᴰ
+http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165899.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CR4sZJtd/galaxy-premium-id.png" group-title="Local Entertainment",GALAXY PREMIUMᴴᴰ
+http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165900.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjED7xyDejiQA-gAhQM-5x0deYw8SAC3DQs1w_1ypHnUVI_yMvBsvp5qdI3V-vVXewsPyqb1P2B3DUWWi_vuhXTUJsLOiDnptYV4Ky_gfLxImdzqtifLTu788L8qNvjoTPAZ116K_YokJZI6JsqY0DVnwcGadcFyyNC8KOsVac1oRIoLvCq3bDJkLGLusI/s700/20251207_001343.jpg" group-title="Local Entertainment",AMC Thrillersᴴᴰ
 http://xxip9.top:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/66243.ts
 
@@ -133,6 +139,9 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtOswYxSurFYD6yBWgqPA2FszUp8JYFH0VTxzEFzB4OF_mhSZgZpi6IpMZ_BsQvkrlWcVUskAyP-oMBdiqjFhmLnPVOrGfAb32-nwI0fmudX4Wnr3vgfpjtvif1OlJaSnLEvr_5E8F9nORtUPcn7L4tcnBuNQh6LxGxGbdRM-oyJL_K49UT7HLolzRAVC4/s700/RCTI.png" group-title="Local TV",RCTIᴴᴰ
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 
+#EXTINF:-1 group-title="Local TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-XkqekMCuNeR2d58rJRFJXxdssvDA9D8AmqTTnxlCOiNhxL7L2yNR1yTWykTB4RMpCkIkgixYqMny0VuOqVkRy5NBkh1ddKaWNPUWc2rIoJ65Ptm93cAzWLkho6gAvivbwfeYqiGq9ws24QVfWGzck14SnYaxu00ZScT893AZ-ZlRGNAU4nTG8JBZVwA/s700/RCTI%20Sport%20Logo.jpg",RCTIᴴᴰ
+http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.m3u8
+
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB3v_xnD6xAiO8W7znGFuzZ0MsgBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png" group-title="Local TV",SCTVᴴᴰ
 ##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://202.169.224.202:8800/udp/239.9.1.29:1234
@@ -151,11 +160,8 @@ http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqFfGFGJU6o9ViyB8hBd8doyC83zYkVvesuwx1e9Rdkg819se6Z8e0jdFE7fS0tgrVofADMaFR_fylrNM2KxmuloQcLKyi3J80VUtkVUIbtALBx2BQw0rdG3s9EbUd1jenmSyDYWzXbboMesCFWxiP4g5Z7CiV8s2BBtmM8HJh9jarJwSNcZsFO4p88YL9/s700/MNC%20TV.png" group-title="Local TV",MNC TVᴴᴰ
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMurczA8o996U3gZLOlfETQHJ263zURxPm-mZ3VImZDlXRj4MQZ7vF4MZViN1ER1QI-uKvFOH9M5jQWDlxe0VTBzyqRzpr9qI4h8-EQWqw5glcxrszyFV3SSWuHFHv8wrFTJf68YtCrCce7o-luRDvS6PXW92b_mD4WMvbImEP23wci-MpniFpp6xKKFc/s750/MNCSports.png" group-title="Local TV",MNC TV Sports
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165910.ts
-
-#EXTINF:-1 group-title="Local TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-XkqekMCuNeR2d58rJRFJXxdssvDA9D8AmqTTnxlCOiNhxL7L2yNR1yTWykTB4RMpCkIkgixYqMny0VuOqVkRy5NBkh1ddKaWNPUWc2rIoJ65Ptm93cAzWLkho6gAvivbwfeYqiGq9ws24QVfWGzck14SnYaxu00ZScT893AZ-ZlRGNAU4nTG8JBZVwA/s700/RCTI%20Sport%20Logo.jpg",MNC TVᴴᴰ
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMurczA8o996U3gZLOlfETQHJ263zURxPm-mZ3VImZDlXRj4MQZ7vF4MZViN1ER1QI-uKvFOH9M5jQWDlxe0VTBzyqRzpr9qI4h8-EQWqw5glcxrszyFV3SSWuHFHv8wrFTJf68YtCrCce7o-luRDvS6PXW92b_mD4WMvbImEP23wci-MpniFpp6xKKFc/s750/MNCSports.png" group-title="Local TV",MNC TVᴴᴰ
+http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165910.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVapQVSVsIweoWpfpUcwU1od2hb8PtzQa0kV24Rpg_6wV45523L3QSaeXmAgDKlLSaVv15BnXvjP9nj6OggMpQpnPUnOTqsDE28BopevlSXrFY-v4R2l1hElLZNidZbdGnTlV_WfMkVIxIvyStXztCDROscV6WYj3ugO1q9pREWJp1ekgnnLItS102EyMH/s700/RTV.png" group-title="Local TV",RTV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
