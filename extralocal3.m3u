@@ -99,6 +99,9 @@ http://202.169.224.202:8800/udp/239.9.1.29:1234
 #EXTINF:-1 tvg-id="--" group-title="Local TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB3v_xnD6xAiO8W7znGFuzZ0MsgBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png",SCTVᴴᴰ
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
+#EXTINF:-1 tvg-id="--" group-title="Local TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB3v_xnD6xAiO8W7znGFuzZ0MsgBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png",SCTVᴴᴰ
+http://202.169.224.202:8800/udp/239.9.1.29:1234
+
 #EXTINF:-1 group-title="Local TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",Indosiarᴴᴰ
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
@@ -333,8 +336,17 @@ http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165900.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jLMXxwQP/celestial-movies-hk.png" group-title="Local Entertainment",Celestial Moviesᴴᴰ
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165792.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jLMXxwQP/celestial-movies-hk.png" group-title="Local Entertainment",Celestial Movies
+http://202.169.224.202:8800/udp/239.9.1.23:1234
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/21vVHg5H/celestial-classic-movies-hk.png" group-title="Local Entertainment",CCM
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165791.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/21vVHg5H/celestial-classic-movies-hk.png" group-title="Local Entertainment",CCM
+http://202.169.224.202:8800/udp/239.9.1.22:1234
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26kNM7Fw/kix-hk.png", group-title="Local Entertainment", KIX
+http://202.169.224.202:8800/udp/239.9.1.21:1234
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tYFj8bhV/bioskop-id.png" group-title="Local Entertainment",Bioskop Indonesiaᴴᴰ
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165845.m3u8
@@ -344,6 +356,9 @@ http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165904.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zL7Wj4tR/citra-drama-id.png" group-title="Local Entertainment",Citra Drama
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165847.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/McCjr8kX/citra-bioskop-id.png" group-title="Local Entertainment",Citra Bioskop
+http://202.169.224.202:8800/udp/239.9.1.15:1234
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cKr5y7pW/animax-jp.png" group-title="Local Entertainment",Animax
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165882.m3u8
